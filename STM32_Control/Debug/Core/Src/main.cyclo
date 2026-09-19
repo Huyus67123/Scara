@@ -1,0 +1,14 @@
+../Core/Src/main.cpp:54:5:int main()	13
+../Core/Src/main.cpp:161:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	7
+../Core/Src/main.cpp:173:6:void HAL_TIM_PWM_PulseFinishedCallback(TIM_HandleTypeDef*)	3
+../Core/Src/main.cpp:177:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	3
+../Core/Src/main.cpp:184:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:206:13:void MX_TIM1_Init()	7
+../Core/Src/main.cpp:247:13:void MX_TIM2_Init()	6
+../Core/Src/main.cpp:274:13:void MX_TIM4_Init()	3
+../Core/Src/main.cpp:300:13:void MX_TIM5_Init()	7
+../Core/Src/main.cpp:332:13:void MX_USART1_UART_Init()	2
+../Core/Src/main.cpp:345:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:352:6:void Error_Handler()	1
+../Core/Src/main.cpp:356:1:void __static_initialization_and_destruction_0(int, int)	3
+../Core/Src/main.cpp:356:1:cpp)	1
